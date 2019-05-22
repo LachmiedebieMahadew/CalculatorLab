@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 20, 2019, 2:49:37 PM
+    Author     : Kadjal
+*/
+
+body{
+    background:url("../IMAGES/dictionary.jpg");
+    
+}
+
+form{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    border:4px solid orange;
+    width: 700px;
+    height:700px;
+  
+    
+}
+
+#term{
+    font-weight: bold;
+    font-size:14pt;
+    
+}
+p{
+    padding-right:12px;
+}
+hr{
+    padding-top: 14pt;
+    color:lightsalmon;
+}
+#result{
+   text-align: left;
+}
